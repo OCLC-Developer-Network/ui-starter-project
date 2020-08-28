@@ -1,4 +1,4 @@
-# OCLC Interview Task
+# OCLC Training Task
 
 This is a [Next.js](https://nextjs.org/) project whose purpose is to display an editable list using a mock REST API.
 
